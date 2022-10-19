@@ -16,5 +16,4 @@ Design System criado desde o Figma até o React construido durante a 3ª ediçã
 * Jest
 
 ## Documentação
-
-Link de acesso: https://carolferreiradev.github.io/ignite-lab-design-system/
+<a href="https://carolferreiradev.github.io/ignite-lab-design-system/" target="_blank">Clique aqui para acessar</a>
